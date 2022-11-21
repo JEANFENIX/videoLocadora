@@ -52,7 +52,7 @@ if(isset($_POST['enviar'])){
 ?>
 
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/style.css">
